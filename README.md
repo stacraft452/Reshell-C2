@@ -1,4 +1,4 @@
-# Reshell
+# Reshell（This project is able to passby mainstream av such as HuoRong,windowsdefender,lenove security manager and so on.You can continue with donut for your own payload!!!）
 
 A **Go-based** C2 (Command & Control) lab platform: a single process provides a **Web admin panel**, **TCP listener**, **payload download + one-click launch scripts**.  
 Agents are written in **C/C++** (Windows / Linux amd64). Callback parameters are injected via **binary stub patching (C2EMBED1)**.  
